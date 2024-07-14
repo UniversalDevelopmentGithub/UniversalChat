@@ -43,4 +43,4 @@ Join countless Minecraft servers worldwide that are elevating their multiplayer 
 **Example:** `/lang set nl`  
 (This will set the player's language to Dutch and all player chat messages will be translated to that language for that player!)
 
-**Find Language codes [Here](#).**
+**Find Language codes [Here](https://localizely.com/iso-639-1-list/).**
