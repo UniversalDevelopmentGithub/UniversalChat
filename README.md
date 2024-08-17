@@ -3,7 +3,7 @@
 ![Universal Chat Banner](https://builtbybit.com/attachments/universalchatbanner-png.777966/?variant=display)
 
 ## Quick Links 🔗
-- **Support:** [GitHub Issues](https://github.com/UniversalDevelopmentGithub/UniversalChat/issues)
+- **Support:** [GitHub](https://github.com/UniversalDevelopmentGithub/UniversalChat/discussions/categories/help)
 - **BuiltByBit Page:** [Universal Chat Resource](https://builtbybit.com/resources/universal-chat-beta.47822/)
 - **Wiki:** [Universal Chat Wiki](https://github.com/UniversalDevelopmentGithub/UniversalChat/wiki)
 
