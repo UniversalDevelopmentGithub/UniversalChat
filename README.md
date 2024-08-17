@@ -4,7 +4,7 @@
 
 ## Quick Links 🔗
 - **Support:** [GitHub Issues](https://github.com/UniversalDevelopmentGithub/UniversalChat/issues)
-- **BuiltByBit Page:** [Universal Chat Resource](https://builtbybit.com/resources/universal-chat.47822/)
+- **BuiltByBit Page:** [Universal Chat Resource](https://builtbybit.com/resources/universal-chat-beta.47822/)
 - **Wiki:** [Universal Chat Wiki](https://github.com/UniversalDevelopmentGithub/UniversalChat/wiki)
 
 ## DEMO
