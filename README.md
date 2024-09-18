@@ -1,4 +1,4 @@
-# Universal Chat GitHub
+
 
 ![Universal Chat Banner](https://builtbybit.com/attachments/universalchatbanner-png.777966/?variant=display)
 
